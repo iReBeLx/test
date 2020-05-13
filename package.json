@@ -4,10 +4,10 @@
   "description": "Destroyer Of Worlds",
   "main": "bot.js",
   "scripts": {
-    "test": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "GoldentriggerG#0001",
+  "author": "iREBEL",
   "license": "ISC",
   "dependencies": {
     "chalk": "^3.0.0",
