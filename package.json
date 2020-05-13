@@ -2,7 +2,7 @@
   "name": "DOW",
   "version": "1.0.0",
   "description": "Destroyer Of Worlds",
-  "main": "index.js",
+  "main": "Bot.js",
   "scripts": {
     "test": ""
   },
