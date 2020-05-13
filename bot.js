@@ -6,7 +6,7 @@ const chalk = require('chalk');
 // Settings for the bot.
 const settings = {
     //Make sure you insert actual token rather than Client ID
-    botToken: "NzA5OTIwMzA0NTA3Mzg3OTE1.Xrs61A.ojpG_y8r0ZkdEvVGP-zwnQaX0Mw"
+    botToken: "INSERT TOKEN HERE"
 };
 
 //on ready:
